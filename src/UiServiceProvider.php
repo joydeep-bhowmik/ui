@@ -4,7 +4,7 @@ namespace JoydeepBhowmik\UI;
 
 use Illuminate\Support\ServiceProvider;
 
-class MyPackageServiceProvider extends ServiceProvider
+class UiServiceProvider extends ServiceProvider
 {
     public function register()
     {
